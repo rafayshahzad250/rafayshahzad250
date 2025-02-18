@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Enjoy learning about existing and emerging technologies<br>🏀 I love playing and watching sports in my free time, particularly soccer and basketball<br>📚 Particularly interested in AI, machine learning, and cybersecurity</p>
+<p align="left">💻 Enjoy learning about existing and emerging technologies<br>🏀 I love playing and watching sports in my free time, particularly soccer and basketball<br>📚 Particularly interested in learning about AI, machine learning, web development, and cybersecurity</p>
 
 ###
 
