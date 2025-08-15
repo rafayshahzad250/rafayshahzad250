@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a third year Computer Science student at McMaster University. I love building and devloping new things as well as exploring new technolgies</p>
+<p align="left">I'm a third year Computer Science student at McMaster University. I love building and devloping new things as well as exploring new technolgies.</p>
 
 ###
 
