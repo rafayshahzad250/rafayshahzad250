@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a second year Computer Science student at McMaster University. I</p>
+<p align="left">I'm a third year Computer Science student at McMaster University.</p>
 
 ###
 
