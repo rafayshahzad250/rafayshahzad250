@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
   <img
-src="https://camo.githubusercontent.com/8cbaf292238420fe13a5733078be745d6902e2ac43a86a8fa2afca75a526390b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030334235373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" height="40" alt="sql logo"  />
+src="https://camo.githubusercontent.com/d9c23d83fdad0769afd9de191cbd12ec65d213b420746b193b186d959adafecb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030334235373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" height="40" alt="sql logo"  />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" height="40" alt="haskell logo"  />
 </div>
 
